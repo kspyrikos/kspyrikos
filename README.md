@@ -1,7 +1,7 @@
 ## Hi there, I'm Konstantinos 👋 
 
 
-#### I'm a Digital Solutions Engineer for [DISA Industries A/S](https://www.disagroup.com/en-gb/)
+#### I'm a Digital Solutions Engineer for [DISA Industries A/S][website]
 #### MSc in Computer Science from the Technical University of Denmark (DTU)
 
 
@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
 <br />
 ### Languages and Tools:
 
@@ -23,6 +23,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][raw]
 <br />
 
-[website]: https://omhu.com/
+[website]: https://www.disagroup.com/en-gb/
 [linkedin]: https://www.linkedin.com/in/kspyr/
 [raw]: https://github.com/kspyrikos 
