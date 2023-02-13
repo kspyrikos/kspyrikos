@@ -23,11 +23,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][raw]
 <br />
 
-## 💼 Technical Skills
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
-
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 
 <br />
 
