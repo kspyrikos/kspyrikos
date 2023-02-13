@@ -1,12 +1,12 @@
 ## Hi there, I'm Konstantinos 👋 
 
 
-#### I'm a student at the Technical University of Denmark (DTU)
-#### Doing my master in Computer Science
-#### I am also a student worker at [Omhu][website]
+#### I'm a Digital Solutions Engineer for [DISA Industries A/S](https://www.disagroup.com/en-gb/)
+#### MSc in Computer Science from the Technical University of Denmark (DTU)
 
-- 🔭 Interested in Machine Learning. Currently working on my master's thesis.
-- ⚡ Fun fact: I love to play guitar / bass guitar and basketball
+
+- 🔭 Interested in Machine Learning.
+- ⚡ Fun fact: I love to play guitar / bass guitar and basketball.
 
 ### Connect with me:
 
