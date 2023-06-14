@@ -30,4 +30,4 @@
 [website]: https://www.disagroup.com/en-gb/
 [linkedin]: https://www.linkedin.com/in/kspyr/
 [raw]: https://github.com/kspyrikos 
-[gmail]: kspyrikos@gmaIl.com
+[gmail]: mailto:kspyrikos@gmaIl.com
