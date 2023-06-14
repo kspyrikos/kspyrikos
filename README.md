@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | GMAIL" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | GMAIL" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 <br />
 ### Languages and Tools:
 
