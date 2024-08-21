@@ -1,7 +1,7 @@
 ## Hi there, I'm Konstantinos 👋 
 
 
-#### I'm a Digital Solutions Engineer for [DISA Industries A/S][website]
+#### I'm a Data Engineer for Novo Nordisk
 #### MSc in Computer Science from the Technical University of Denmark (DTU)
 
 
