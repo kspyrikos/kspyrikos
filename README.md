@@ -1,7 +1,7 @@
 ## Hi there, I'm Konstantinos 👋 
 
 
-#### I'm a Data Engineer for Novo Nordisk
+#### I'm a Data Engineer for Danske Bank in Copenhagen, Denmark.
 #### MSc in Computer Science from the Technical University of Denmark (DTU)
 
 
