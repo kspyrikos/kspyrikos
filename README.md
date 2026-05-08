@@ -1,12 +1,9 @@
 ## Hi there, I'm Konstantinos 👋 
 
 
-#### I'm a Data Engineer for Danske Bank in Copenhagen, Denmark.
+#### I'm a Senior Data Engineer for Danske Bank in Copenhagen, Denmark.
 #### MSc in Computer Science from the Technical University of Denmark (DTU)
 
-
-- 🔭 Interested in Machine Learning.
-- ⚡ Fun fact: I love to play guitar / bass guitar and basketball.
 
 ### Connect with me:
 
